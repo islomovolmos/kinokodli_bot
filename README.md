@@ -1,1 +1,1 @@
-# kinokodli_bot
+# kinokodlibot
